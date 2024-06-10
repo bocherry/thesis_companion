@@ -1,0 +1,17 @@
+,smell_identifier,projects,occurences
+0,Querying too much data,232,13548
+1,Single update/insert for batches,205,4066
+2,Uncovered query,151,15364
+3,Multiple Schemas in a file,87,388
+4,Negation in query,72,1176
+5,Case-insensitive queries without matching indexes,49,8272
+6,Using \$limit without \$sort,49,258
+7,doSchemaSinglePersonBridge,36,332
+8,Repeated immutable data,25,766
+9,Using a document for \_id,18,310
+10,Confusing null and undefined,7,26
+11,Map-Reduce for projection,7,32
+12,Avoid \$where,4,18
+13,Sorted monkeys,2,6
+14,Index intersection rather than compound index,1,2
+15,Prefix index of compound indexes,1,2
