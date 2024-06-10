@@ -7,7 +7,7 @@ import os
 import pandas as pd
 
 
-TOKEN = "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"
+TOKEN = ""
 
 def filter_dataset(path_to_dataset):
     """
