@@ -4,6 +4,6 @@
 
 This repository regroups all the data used in the thesis.
 
- - [Chapter 3](https://github.com/bocherry/saner2022)
- - [Chapter 4](https://github.com/bocherrysaner2024catalog)
+ - [Chapter 3](https://github.com/bocherry/saner22-online-appendix)
+ - [Chapter 4](https://github.com/bocherry/SANER2024_catalog_appendix)
  - [Chapter 5](SMEAGOL/README.md)
